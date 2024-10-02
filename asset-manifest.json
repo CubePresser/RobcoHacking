@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/RobcoHacking/static/css/main.f2c1cbc1.css",
-    "main.js": "/RobcoHacking/static/js/main.71ed1a2a.js",
-    "index.html": "/RobcoHacking/index.html",
-    "main.f2c1cbc1.css.map": "/RobcoHacking/static/css/main.f2c1cbc1.css.map",
-    "main.71ed1a2a.js.map": "/RobcoHacking/static/js/main.71ed1a2a.js.map"
+    "main.css": "/Termlink/static/css/main.429de45d.css",
+    "main.js": "/Termlink/static/js/main.71ed1a2a.js",
+    "index.html": "/Termlink/index.html",
+    "main.429de45d.css.map": "/Termlink/static/css/main.429de45d.css.map",
+    "main.71ed1a2a.js.map": "/Termlink/static/js/main.71ed1a2a.js.map"
   },
   "entrypoints": [
-    "static/css/main.f2c1cbc1.css",
+    "static/css/main.429de45d.css",
     "static/js/main.71ed1a2a.js"
   ]
 }
